@@ -1,0 +1,12 @@
+nametag;wyplyw;9;1-1-2029
+hat;wyplyw;2;1-1-2029
+item;wyplyw;60;1-1-2029
+wings;wyplyw;16;1-1-2029
+item;shovek_;12;1-1-2029
+item;shovek_;12;1-1-2029
+item;shovek_;12;1-1-2029
+item;shovek_;12;1-1-2029
+wings;wfefsdfs;2;1-1-2029
+hat;fdsvc;2;1-1-2029
+tails;4234dfsfsdf;3;1-1-2029
+item;fdsvc;232;1-1-2029
